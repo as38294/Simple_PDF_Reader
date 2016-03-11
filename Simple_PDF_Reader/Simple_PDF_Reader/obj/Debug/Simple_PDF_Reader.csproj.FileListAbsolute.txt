@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\Simple_PDF_Reader\Simple_PDF_Reader\bin\Debug\Simple_PDF_Reader.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Simple_PDF_Reader\Simple_PDF_Reader\bin\Debug\Simple_PDF_Reader.exe
+c:\users\user\documents\visual studio 2015\Projects\Simple_PDF_Reader\Simple_PDF_Reader\bin\Debug\Simple_PDF_Reader.pdb
+c:\users\user\documents\visual studio 2015\Projects\Simple_PDF_Reader\Simple_PDF_Reader\bin\Debug\Interop.AcroPDFLib.dll
+c:\users\user\documents\visual studio 2015\Projects\Simple_PDF_Reader\Simple_PDF_Reader\bin\Debug\AxInterop.AcroPDFLib.dll
+c:\users\user\documents\visual studio 2015\Projects\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\Simple_PDF_Reader.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\Interop.AcroPDFLib.dll
+c:\users\user\documents\visual studio 2015\Projects\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\AxInterop.AcroPDFLib.dll
+c:\users\user\documents\visual studio 2015\Projects\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\Simple_PDF_Reader.csproj.ResolveComReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\Simple_PDF_Reader.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\Simple_PDF_Reader.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\Simple_PDF_Reader.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\Simple_PDF_Reader.exe
+c:\users\user\documents\visual studio 2015\Projects\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\Simple_PDF_Reader.pdb
